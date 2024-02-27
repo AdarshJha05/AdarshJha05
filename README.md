@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning.
 - 📫 How to reach me by email:
--  jhashailendra87@gmail.com
+-  adarshj595@gmail.com
 
 <!---
 AdarshJha05/AdarshJha05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
